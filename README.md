@@ -67,9 +67,3 @@
 </p>
 
 ###
-
-<h2 align="left"> 🐍 My GitHub Contributions : </h2>
-
-###
-
-[Snake animation](https://github.com/urja2001/urja2001/blob/output/github-contribution-grid-snake.svg)
