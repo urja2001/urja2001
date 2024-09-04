@@ -3,6 +3,7 @@
 ###
 
 <h3 align="center">A passionate Devops Engineer. I work in Startup IT Sector and in my free time I love to learn new Technologies</h3>
+<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 ###
 
@@ -34,6 +35,7 @@
 ###
 
 <h2 align="left"> 🖥️ Skills : </h2>
+<img align="right" alt="Coding" width="400" src= "https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0MzUzMjQsIm5iZiI6MTcyNTQzNTAyNCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDA3MzAyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0NjU3YTJlZmIzMTdlZDhjN2EyYzg3NTE5OWVlNDM3ZDllNjc1NjI4ZDhhMWQ1ZmRmYjEwMTBlMDNiYWE0YzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nkdeQLasQdus-kGSONIQlwY0w6pKmEeP5eWlk-ld4Bg">
 
 ###
 
