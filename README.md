@@ -29,7 +29,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/urja-jain-9ab7b31aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/urja-jain-9ab7b31aa/" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;
-<a href="[urjajain2102@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="[urjajain2102@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)" height="30" width="40" /> </a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" height="30" width="40" /> </a>
 </p>
 
 ###
