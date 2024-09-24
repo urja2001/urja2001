@@ -17,7 +17,7 @@
 
 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-🗂️ All of my projects & Scripts are available at [https://github.com/urja2001](https://github.com/urja2001)
+🗂️ All of My Projects & Scripts are available at [https://github.com/urja2001](https://github.com/urja2001)
 
 🤖 I make sure to continuously update my skills in this rapidly evolving industry. 
 In my recent professional , I concentrated on mastering a wide array of skills. 
