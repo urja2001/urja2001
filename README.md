@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate Devops Engineer. I work in Startup IT Sector and in my free time I love to learn new Technologies</h3>
+<h3 align="center">A passionate Devops Engineer. I work in Startup IT Sector</h3>
 <img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 ###
@@ -17,7 +17,12 @@
 
 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-🗂️ All of my projects are available at [https://github.com/urja2001](https://github.com/urja2001)
+🗂️ All of my projects & Scripts are available at [https://github.com/urja2001](https://github.com/urja2001)
+
+🤖 I make sure to continuously update my skills in this rapidly evolving industry. 
+In my recent professional , I concentrated on mastering a wide array of skills. 
+
+🎉 In my free time, you will find me enjoying moments with my family, cooking, gardening, reading & learning new Technologies or listening to music.
 
 💬 Ask me about **Cloud and Devops**
 
@@ -29,7 +34,8 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/urja-jain2301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/urja-jain2301" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;
-<a href="mailto:jainurja2001@gmail.com" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="30" width="40" /></a> 
+<a href="mailto:jainurja2001@gmail.com" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="30" width="40"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://portfolio-koushik.netlify.app/"><img align="center" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"></a> 
 </p>
 
 ###
@@ -63,12 +69,15 @@
 <h3 align="left"> 🧰 Tools :</h3>
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>  &nbsp;&nbsp;&nbsp;
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 </p>
 
