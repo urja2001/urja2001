@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="left"> 📍 I'm from Pune<br><br>
+<h4 align="left"> 📍 I'm from Pune, Maharashtra<br><br>
 
 🔭 I’m currently working on [Devops Integration Projects](https://github.com/urja2001/DevOps-Integration-Projects.git)
 
