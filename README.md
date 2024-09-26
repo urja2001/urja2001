@@ -81,7 +81,7 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left"> ☁️ Cloud DevOpsS Tools 🧰 :</h3>
+<h3 align="left"> ☁️ Cloud DevOps Tools 🧰 :</h3>
 <p align="left"> 
 <image src="https://i0.wp.com/foxutech.com/wp-content/uploads/2017/09/AWS-CloudFormation-1.png?fit=640%2C366&ssl=1" alt="CloudFormation" width="90" height="50">  
 
