@@ -1,8 +1,8 @@
 <h1 align="center">Hello Everyone 👋, I'm Urja Jain</h1>
 
 ###
-
 <h3 align="center">A passionate Devops Engineer. I work in Startup IT Sector</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=urja2001&label=Profile%20views&color=0e75b6&style=flat" alt="Urja Jain" /> </p>
 <img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 ###
@@ -47,7 +47,7 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 
 <h3 align="left"> ☁️ Cloud Technologies : </h3>
 
-<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="Coding" width="400" src= "https://miro.medium.com/v2/resize:fit:828/format:webp/1*XEAvoDtCj_5Qlm-KhwyuPw.gif">
 
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;
@@ -74,6 +74,7 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
