@@ -95,11 +95,11 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 
 <!--START_SECTION:waka-->
 ```text
-Cloud & Devops     5 hrs 3 mins    ███████████████████████░░   95.70 % 
-SQL                1 hr 34 mins    ██████████████████████░░░   81.85 %
-SQL                1 hr 34 mins    █████████████████████░░░░   73.52 %
-Python             4 hrs 35 mins   ████████████████████░░░░░   70.59 % 
-BigData            3 mins          ████████░░░░░░░░░░░░░░░░░   25.55 %
-PySpark            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Cloud & Devops      5 hrs 3 mins    ███████████████████████░░   95.70 % 
+SQL                 1 hr 34 mins    ██████████████████████░░░   81.85 %
+Shell Scripting     1 hr 34 mins    █████████████████████░░░░   73.52 %
+Python              4 hrs 35 mins   ████████████████████░░░░░   70.59 % 
+BigData             3 mins          ████████░░░░░░░░░░░░░░░░░   25.55 %
+PySpark             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
