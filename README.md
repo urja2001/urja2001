@@ -89,7 +89,7 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 ###
 ## 📊 Stats
 
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since Jun 22 2021</b>
+[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since Jun 22 2023</b>
 
 📊 <b>This Month I Spent My Time On</b>
 
