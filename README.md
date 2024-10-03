@@ -34,7 +34,7 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 ###
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/urja-jain2301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/urja-jain2301" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/https://[www.linkedin.com/in/urja-jain2301](https://github.com/urja2001/urja2001/blob/master/README.md)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/urja-jain2301" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;
 <a href="mailto:jainurja2001@gmail.com" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="30" width="40"/></a> &nbsp;&nbsp;&nbsp;
 <a href=""><img align="center" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"></a> 
 </p>
