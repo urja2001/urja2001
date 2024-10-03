@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://github.com/urja2001/urja2001/blob/master/DevOps%20Banner.png"> </div>
 
 ###
-<h3 align="center">I am a passionate DevOps Engineer working in IT at a Startup </h3>
+<h3 align="center">I am a passionate DevOps Engineer 🚀 working in IT at a Startup 💻 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urja2001&label=Profile%20views&color=0e75b6&style=flat" alt="Urja Jain" /> </p>
 <img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
