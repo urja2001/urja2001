@@ -58,12 +58,13 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 
 <h3 align="left"> 💻 Languages :</h3>
 <p align="left"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://spark.apache.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*MwZZjt-IlJU0TFaZxfBz1Q.jpeg" alt="pyspark" width="50" height="50"/> </a>  
 </p>
 
 <h3 align="left"> 🧰 Tools :</h3>
@@ -85,8 +86,15 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 <h3 align="left"> ☁️ Cloud DevOps Tools 🧰 :</h3>
 <p align="left"> 
 <image src="https://i0.wp.com/foxutech.com/wp-content/uploads/2017/09/AWS-CloudFormation-1.png?fit=640%2C366&ssl=1" alt="CloudFormation" width="90" height="50">  
+</p>
 
+<h3 align="left"> 📊 Data Engineering Tools 🔍 :</h3>
+<p align="left"> 
+<image src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="90" height="50">  &nbsp;&nbsp;&nbsp;
+<image src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="90" height="50"> 
+</p>
 
+  
 ###
 ## 📊 Stats
 
