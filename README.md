@@ -4,7 +4,7 @@
 ###
 <h2 align="center">I am a passionate DevOps Engineer 🚀 working in IT at a Startup 💻 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urja2001&label=Profile%20views&color=0e75b6&style=flat" alt="Urja Jain" /> </p>
-<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+<img align="right" alt="Coding" width="400" src= "https://github.com/urja2001/urja2001/blob/623161d58aa894d76c14d3b6b8a7a89d8cd3da29/gifs%20%26%20logos/robot.gif">
 
 ###
 
@@ -42,13 +42,12 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 ###
 
 <h2 align="left"> 🖥️ Skills : </h2>
-<img align="right" alt="Coding" width="400" src= "https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0MzUzMjQsIm5iZiI6MTcyNTQzNTAyNCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDA3MzAyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0NjU3YTJlZmIzMTdlZDhjN2EyYzg3NTE5OWVlNDM3ZDllNjc1NjI4ZDhhMWQ1ZmRmYjEwMTBlMDNiYWE0YzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nkdeQLasQdus-kGSONIQlwY0w6pKmEeP5eWlk-ld4Bg">
+<img align="right" alt="Coding" width="400" src= "https://github.com/urja2001/urja2001/blob/d9b5e376e5ccfef6319a67f33c054ff9729210b1/gifs%20%26%20logos/devops4.gif">
 
 ###
 
 <h3 align="left"> ☁️ Cloud Technologies : </h3>
 
-<img align="right" alt="Coding" width="400" src= "https://miro.medium.com/v2/resize:fit:828/format:webp/1*XEAvoDtCj_5Qlm-KhwyuPw.gif">
 
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;
@@ -83,6 +82,7 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 </p>
 
+<img align="right" alt="Coding" width="400" src= "https://github.com/urja2001/urja2001/blob/623161d58aa894d76c14d3b6b8a7a89d8cd3da29/gifs%20%26%20logos/dataengineer.gif">
 <h3 align="left"> ☁️ Cloud DevOps Tools 🧰 :</h3>
 <p align="left"> 
 <image src="https://i0.wp.com/foxutech.com/wp-content/uploads/2017/09/AWS-CloudFormation-1.png?fit=640%2C366&ssl=1" alt="CloudFormation" width="90" height="50">  
