@@ -25,7 +25,7 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 
 🎉 In my free time, you will find me enjoying moments with my family, listening to music or reading new Technologies.
 
-💬 Ask me about **Cloud and Devops**
+💬 Ask me about **Cloud , Devops and Data Engineer**
 
 ###
 
