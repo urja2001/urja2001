@@ -102,8 +102,10 @@ In my recent professional , I concentrated on mastering a wide array of skills.
 
 <!--START_SECTION:waka-->
 ```text
-Cloud & Devops      ███████████████████████░░   95.70 % 
+Cloud & Devops      ███████████████████████░░   95.70
 SQL                 ██████████████████████░░░   81.85 %
+Snowflake           ██████████████████████░░░   75.70 %
+Databricks          ██████████████████████░░░   75.70 % 
 Shell Scripting     █████████████████████░░░░   73.52 %
 Python              ████████████░░░░░░░░░░░░░   50.59 % 
 BigData             ████████░░░░░░░░░░░░░░░░░   25.55 %
